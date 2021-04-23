@@ -1,0 +1,14 @@
+.\release\objects\gp_timer.o: ../../../../../Library/hal/src/gp_timer.c
+.\release\objects\gp_timer.o: ..\..\..\..\..\Library\hal\inc\clock.h
+.\release\objects\gp_timer.o: ..\..\..\..\..\Library\CMSIS\Device\ST\BlueNRG1\Include\bluenrg_x_device.h
+.\release\objects\gp_timer.o: ..\..\..\..\..\Library\CMSIS\Device\ST\BlueNRG1\Include\BlueNRG2.h
+.\release\objects\gp_timer.o: ..\..\..\..\..\Library\CMSIS\Include\core_cm0.h
+.\release\objects\gp_timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\release\objects\gp_timer.o: ..\..\..\..\..\Library\CMSIS\Include\core_cmInstr.h
+.\release\objects\gp_timer.o: ..\..\..\..\..\Library\CMSIS\Include\core_cmFunc.h
+.\release\objects\gp_timer.o: ..\..\..\..\..\Library\CMSIS\Device\ST\BlueNRG1\Include\system_BlueNRG2.h
+.\release\objects\gp_timer.o: ..\..\..\..\..\Library\hal\inc\compiler.h
+.\release\objects\gp_timer.o: ..\..\..\..\..\Library\hal\inc\hal_types.h
+.\release\objects\gp_timer.o: ..\..\..\..\..\Library\CMSIS\Include\core_cm0.h
+.\release\objects\gp_timer.o: ..\..\..\..\..\Library\CMSIS\Device\ST\BlueNRG1\Include\system_bluenrg.h
+.\release\objects\gp_timer.o: ..\..\..\..\..\Library\hal\inc\gp_timer.h
